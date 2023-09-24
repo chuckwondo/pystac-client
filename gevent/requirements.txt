@@ -1,3 +1,5 @@
 dask-geopandas
 gevent
 httpx
+pandas-stubs
+scalene
